@@ -18,7 +18,14 @@
 
  ---
 ### Github Stats
+<p align="center">
+
 ![duc1807 github stats](https://github-readme-stats.vercel.app/api?username=duc1807&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&disable_animations=false)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duc1807&layout=compact&theme=dracula)
+
+<img src="https://github-readme-stats.vercel.app/api?username=duc1807&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&disable_animations=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duc1807&layout=compact&theme=dracula">
+
+</p>
 
 
  ---
