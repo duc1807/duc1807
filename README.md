@@ -11,7 +11,7 @@
 |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/vscode.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/firebase.svg" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/jira.svg" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/figma.png" width=60> | 
 |:---:|:---:|:---:|:---:|
 
-
+![duc1807 github stats](https://github-readme-stats.vercel.app/api?username=duc1807)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duc1807&layout=dark)
 
 
 <!--
