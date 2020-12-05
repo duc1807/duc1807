@@ -11,10 +11,12 @@ p### Trung Duc, Web developer
  ---
 ### Tools
 <p align="center>
+  <div align="center">
 
 |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/vscode.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/firebase.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/jira.svg" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/figma.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mongodb.png" width=60> |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mysql.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+</div>
 </p>
 
  ---
@@ -45,11 +47,8 @@ p### Trung Duc, Web developer
 </a> -->
 
 <a href="https://www.facebook.com/trungduc.dev" target="_blank"><img src="https://github.com/duc1807/duc1807/blob/master/images/Connect_with_me/fb.png" alt="Facebook" width="30"></a>
-
 <a href="#" target="_blank"><img src="https://github.com/duc1807/duc1807/blob/master/images/Connect_with_me/in.png" alt="LinkedIn" width="30"></a>
-
 <a href="https://arturio.dev/" target="_blank"><img src="https://github.com/duc1807/duc1807/blob/master/images/Connect_with_me/www.png" alt="Website" width="30"></a>
-
 <a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://github.com/duc1807/duc1807/blob/master/images/Connect_with_me/git.png" alt="GitHub" width="30"></a>
 
 </p>
