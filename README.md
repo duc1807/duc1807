@@ -11,17 +11,15 @@
  ---
 ### Tools
 
-  <div align="center">
-<code> |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/vscode.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/firebase.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/jira.svg" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/figma.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mongodb.png" width=60> |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mysql.png" width=60> |
+
+|<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/vscode.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/firebase.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/jira.svg" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/figma.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mongodb.png" width=60> |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mysql.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:| <code>
-  </div>
+
 
  ---
 ### Github Stats
-
-<div align="center">
 ![duc1807 github stats](https://github-readme-stats.vercel.app/api?username=duc1807&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&disable_animations=false)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duc1807&layout=compact&theme=dracula)
-</div>
+
 
  ---
 ### Connect with me
