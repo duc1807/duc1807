@@ -1,4 +1,4 @@
-### Trung Duc, Web developer
+p### Trung Duc, Web developer
 
 ![](https://komarev.com/ghpvc/?username=duc1807&color=red)
 
@@ -10,17 +10,17 @@
 
  ---
 ### Tools
-
+<p align="center>
 
 |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/vscode.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/firebase.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/jira.svg" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/figma.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mongodb.png" width=60> |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mysql.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:| <code>
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
+</p>
 
  ---
 ### Github Stats
-<p align="center">
 
-![duc1807 github stats](https://github-readme-stats.vercel.app/api?username=duc1807&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&disable_animations=false)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duc1807&layout=compact&theme=dracula)
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=duc1807&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&disable_animations=false">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duc1807&layout=compact&theme=dracula">
@@ -29,9 +29,12 @@
 
 
  ---
+
+ <p align="center">
+
 ### Connect with me
 
-<a href="https://facebook.com/trungduc.dev">
+<!-- <a href="https://facebook.com/trungduc.dev">
   <img align="left" alt="Duc1807 Facebook" width="21px" src="https://github.com/duc1807/duc1807/blob/master/images/Connect_with_me/facebook.svg" />
 </a>
 <a href="#">
@@ -39,7 +42,24 @@
 </a>
 <a href="#">
   <img align="left" alt="Duc1807 Portfolio" width="21px" src="https://github.com/duc1807/duc1807/blob/master/images/Connect_with_me/www.svg" />
-</a>
+</a> -->
+
+<a href="https://www.facebook.com/trungduc.dev" target="_blank"><img src="https://github.com/duc1807/duc1807/blob/master/images/Connect_with_me/fb.png" alt="Facebook" width="30"></a>
+
+<a href="#" target="_blank"><img src="https://github.com/duc1807/duc1807/blob/master/images/Connect_with_me/in.png" alt="LinkedIn" width="30"></a>
+
+<a href="https://arturio.dev/" target="_blank"><img src="https://github.com/duc1807/duc1807/blob/master/images/Connect_with_me/www.png" alt="Website" width="30"></a>
+
+<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://github.com/duc1807/duc1807/blob/master/images/Connect_with_me/git.png" alt="GitHub" width="30"></a>
+
+</p>
+
+
+
+
+
+
+
 
 <!--
 **duc1807/duc1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
