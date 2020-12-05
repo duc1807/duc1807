@@ -1,4 +1,4 @@
-p### Trung Duc, Web developer
+### Trung Duc, Web developer
 
 ![](https://komarev.com/ghpvc/?username=duc1807&color=red)
 
@@ -11,7 +11,8 @@ p### Trung Duc, Web developer
  ---
 ### Tools
 <p align="center>
-  <div align="center">
+
+<div align="center">
 
 |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/vscode.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/firebase.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/jira.svg" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/figma.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mongodb.png" width=60> |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mysql.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
