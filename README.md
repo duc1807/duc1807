@@ -14,7 +14,7 @@
 
 <div align="center">
 
-|<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/vscode.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/firebase.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/jira.svg" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/figma.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mongodb.png" width=60> |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mysql.png" width=60> |
+|<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/vscode.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/firebase.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/jira.svg" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/figma.png" width=60> | <img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mongodb.png" width=60> |<img src="https://github.com/duc1807/duc1807/blob/master/images/Tools/mysql.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width=60> | <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEt0L6R3cV--w/company-logo_200_200/0/1625643444931?e=2159024400&v=beta&t=ELir8DqKcwFW5Gc0Wes4AsYmwkK6ylLzWTfPySOrP64" width=60>
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
